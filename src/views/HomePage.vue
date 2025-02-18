@@ -24,19 +24,19 @@
             <h2>Nossos Cursos</h2>
             <div class="cards">
                 <div class="card">
-                    <!-- <img src="/assets/images/english1.jpg" alt="Curso 1" /> -->
+                    <img src="../assets/images/english1.png" alt="Curso 1" />
                     <h3>Inglês 1</h3>
-                    <p>Aprenda os fundamentos básicos do inglês.</p>
+                    <p>O curso de Inglês 1 traz os conhecimento iniciais para a compreensão da Língua Inglesa.</p>
                 </div>
                 <div class="card">
-                    <!-- <img src="/assets/images/english2.jpg" alt="Curso 2" /> -->
+                    <img src="../assets/images/english2.png" alt="Curso 2" />
                     <h3>Inglês 2</h3>
-                    <p>Aprofunde seu conhecimento com novas expressões.</p>
+                    <p>O curso de Inglês 2 traz os conhecimento iniciais para a compreensão da Língua Inglesa.</p>
                 </div>
                 <div class="card">
-                    <!-- <img src="/assets/images/english3.jpg" alt="Curso 3" /> -->
+                    <img src="../assets/images/english3.png" alt="Curso 3" />
                     <h3>Inglês 3</h3>
-                    <p>Domine a conversação para o dia a dia.</p>
+                    <p>O curso de Inglês 3 continua trazendo os conhecimento iniciais para a compreensão da Língua Inglesa.</p>
                 </div>
             </div>
         </section>
