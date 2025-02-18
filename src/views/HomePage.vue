@@ -24,19 +24,88 @@
             <h2>Nossos Cursos</h2>
             <div class="cards">
                 <div class="card">
-                    <img src="../assets/images/english1.png" alt="Curso 1" />
+                    <img src="../assets/images/english01.png" alt="Curso 1" />
                     <h3>Inglês 1</h3>
                     <p>O curso de Inglês 1 traz os conhecimento iniciais para a compreensão da Língua Inglesa.</p>
                 </div>
                 <div class="card">
-                    <img src="../assets/images/english2.png" alt="Curso 2" />
+                    <img src="../assets/images/english02.png" alt="Curso 2" />
                     <h3>Inglês 2</h3>
                     <p>O curso de Inglês 2 traz os conhecimento iniciais para a compreensão da Língua Inglesa.</p>
                 </div>
                 <div class="card">
-                    <img src="../assets/images/english3.png" alt="Curso 3" />
+                    <img src="../assets/images/english03.png" alt="Curso 3" />
                     <h3>Inglês 3</h3>
-                    <p>O curso de Inglês 3 continua trazendo os conhecimento iniciais para a compreensão da Língua Inglesa.</p>
+                    <p>O curso de Inglês 3 continua trazendo os conhecimento iniciais para a compreensão da Língua
+                        Inglesa.</p>
+                </div>
+                <div class="card">
+                    <img src="../assets/images/english04.png" alt="Curso 4" />
+                    <h3>Inglês 4</h3>
+                    <p>O curso de Inglês 4 continua trazendo os conhecimento iniciais para a compreensão da Língua
+                        Inglesa.</p>
+                </div>
+                <div class="card">
+                    <img src="../assets/images/english05.png" alt="Curso 5" />
+                    <h3>Inglês 5</h3>
+                    <p>O curso de Inglês 5 amplia o seu vocabulário em situações que envolvam: restaurante, saúde, corpo
+                        humano, doenças, locais e atividades de lazer.</p>
+                </div>
+                <div class="card">
+                    <img src="../assets/images/english06.png" alt="Curso 6" />
+                    <h3>Inglês 6</h3>
+                    <p>O curso de Inglês 6 amplia o seu vocabulário em situações que envolvam: adjetivos, viagens, e faz
+                        uma revisão do que já foi visto até aqui.</p>
+                </div>
+                <div class="card">
+                    <img src="../assets/images/english07.png" alt="Curso 7" />
+                    <h3>Inglês 7</h3>
+                    <p>O curso de Inglês 7 amplia o seu vocabulário em situações que envolvam: Future (Going To
+                        and Will), Modal Verbs, Past Continous and Simple Past.</p>
+                </div>
+                <div class="card">
+                    <img src="../assets/images/english08.png" alt="Curso 8" />
+                    <h3>Inglês 8</h3>
+                    <p>O curso de Inglês 8 amplia o seu vocabulário em situações que envolvam: Vocabulário:
+                        esportes radicais, serviços funerários e ambiente acadêmico; estrutura e usos: Past Simple, Past
+                        Continuous, Present Perfect Simple.</p>
+                </div>
+                <div class="card">
+                    <img src="../assets/images/english09.png" alt="Curso 9" />
+                    <h3>Inglês 9</h3>
+                    <p>O curso de Inglês 9 amplia o seu vocabulário em situações que envolvam: entrevista de
+                        emprego e ambiente de trabalho; Present Continuous; verbos modais can e could; adjetivos
+                        terminados em -ed e -ing; modal verbs should, must e have to.</p>
+                </div>
+                <div class="card">
+                    <img src="../assets/images/english010.png" alt="Curso 10" />
+                    <h3>Inglês 10</h3>
+                    <p>O curso de Inglês 10 amplia o seu vocabulário em dinheiro e feriados do Canadá;
+                        conjunções concessivas e adversativas (however, although, even though, despite, in spite of);
+                        conjunções consecutivas e causais (so, therefore, because (of), due to); Non-Defining Relative
+                        Clauses e Defining Relative Clauses; Present Continuous vs. Going to; Be able to.</p>
+                </div>
+                <div class="card">
+                    <img src="../assets/images/english011.png" alt="Curso 11" />
+                    <h3>Inglês 11</h3>
+                    <p>O curso de Inglês 11 amplia o seu vocabulário em situações que envolvam: Vocabulário:
+                        gêneros de filme, profissionais do cinema, tipos de histórias e estágios da vida; uso de to ou
+                        -ing em dois verbos seguidos; as diferenças de pronúncia de The, Object pronouns e To be; uso do
+                        Past Perfect Simple associado ao Past Simple; contrações no Past Perfect Simple; Verbo use, get
+                        use e used to.</p>
+                </div>
+                <div class="card">
+                    <img src="../assets/images/english012.png" alt="Curso 12" />
+                    <h3>Inglês 12</h3>
+                    <p>O curso de Inglês 12 amplia o seu vocabulário em situações que envolvam: Causative
+                        sentences; Tag Questions; Indirect Questions.</p>
+                </div>
+                <div class="card">
+                    <img src="../assets/images/english013.png" alt="Curso 13" />
+                    <h3>Inglês 13</h3>
+                    <p>O curso de Inglês 13 amplia o seu vocabulário em situações que envolvam: meio musical,
+                        mídia televisiva e hábitos saudáveis; Zero Conditional; First Conditional; Second Conditional;
+                        Third Conditional; Uso do would e could.</p>
                 </div>
             </div>
         </section>
