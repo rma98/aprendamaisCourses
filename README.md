@@ -47,4 +47,6 @@ Isso iniciará o servidor e o projeto estará acessível no navegador em http://
 ## 📬 Contribuições
 Contribuições são bem-vindas! Caso queira sugerir melhorias ou reportar problemas, abra uma issue ou envie um pull request.
 
+---
+
 Feito com ❤️ para todos que querem aprender inglês! 🎯
