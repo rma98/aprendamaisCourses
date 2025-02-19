@@ -11,7 +11,7 @@
                 <a href="#" class="dropbtn">Cursos <i class="arrow down"></i></a>
                 <ul class="dropdown-content">
                     <li v-for="course in courses" :key="course">
-                        <router-link :to="`/ingles/${course.number}/pag01`">{{ course.name }}</router-link>
+                        <router-link :to="`/ingles/${course.number}/pag/01`">{{ course.name }}</router-link>
                     </li>
                 </ul>
             </li>
