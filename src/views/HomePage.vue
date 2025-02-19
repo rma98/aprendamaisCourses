@@ -1,8 +1,5 @@
 <template>
     <div class="container">
-        <!-- Navbar -->
-        <Navbar />
-
         <!-- Hero Section -->
         <header class="hero">
             <div class="hero-content">
@@ -102,22 +99,12 @@
                 </div>
             </div>
         </section>
-
-        <!-- Footer -->
-        <Footer />
     </div>
 </template>
 
 <script>
-import Navbar from "../components/Navbar.vue";
-import Footer from "../components/Footer.vue";
-
 export default {
     name: "HomePage",
-    components: {
-        Navbar,
-        Footer
-    }
 };
 </script>
 
