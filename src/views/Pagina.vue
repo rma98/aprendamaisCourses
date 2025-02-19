@@ -17,9 +17,7 @@ const pagina: string = route.params.pagina as string;
 
 // Definir a página específica com base no curso e na página
 const currentPageComponent = defineAsyncComponent(() => {
-    /* @vite-ignore */
-    return import(`./views/Ingles${curso}/Pag${pagina}.vue`);
+    return import(/* @vite-ignore */ `../views/Ingles${curso}/Pag${pagina}.vue`);
 });
 </script>
-
 <style scoped></style>
