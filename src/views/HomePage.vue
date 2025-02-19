@@ -1,34 +1,12 @@
 <template>
     <div class="container">
         <!-- Navbar -->
-        <nav class="navbar">
-            <div class="logo">AprendaMais</div>
-
-            <!-- Menu principal -->
-            <ul class="nav-links">
-                <li><a href="#">Início</a></li>
-
-                <!-- Dropdown de Cursos -->
-                <li class="dropdown">
-                    <a href="#" class="dropbtn">Cursos <i class="arrow down"></i></a>
-                    <ul class="dropdown-content">
-                        <li v-for="course in courses" :key="course">
-                            <a href="#">{{ course }}</a>
-                        </li>
-                    </ul>
-                </li>
-
-                <!-- Botão para abrir o modal -->
-                <li><a href="#" @click.prevent="openModal">Contato</a></li>
-            </ul>
-            <!-- Modal de Contato -->
-            <ModalContato :show="modalOpen" @close="modalOpen = false" />
-        </nav>
+        <Navbar />
 
         <!-- Hero Section -->
         <header class="hero">
             <div class="hero-content">
-                <h1>Domine o Inglês com o AprendaMais!</h1>
+                <h1>Domine o Inglês com o <a href="https://aprendamais.mec.gov.br/" target="_blank">AprendaMais</a>!</h1>
                 <p>Explore cursos de inglês do nível 1 ao 13 e aprimore suas habilidades.</p>
                 <button class="btn-primary">Comece Agora</button>
             </div>
@@ -126,31 +104,19 @@
         </section>
 
         <!-- Footer -->
-        <footer class="footer">
-            <p>© {{ new Date().getFullYear() }} AprendaMais Courses. Todos os direitos reservados.</p>
-        </footer>
+        <Footer />
     </div>
 </template>
 
 <script>
-import ModalContato from "../components/ModalContato.vue";
+import Navbar from "../components/Navbar.vue";
+import Footer from "../components/Footer.vue";
 
 export default {
     name: "HomePage",
-    components: { ModalContato },
-    data() {
-        return {
-            modalOpen: false,
-            courses: [
-                "Inglês 1", "Inglês 2", "Inglês 3", "Inglês 4", "Inglês 5", "Inglês 6",
-                "Inglês 7", "Inglês 8", "Inglês 9", "Inglês 10", "Inglês 11", "Inglês 12", "Inglês 13"
-            ],
-        };
-    },
-    methods: {
-        openModal() {
-            this.modalOpen = true;
-        },
+    components: {
+        Navbar,
+        Footer
     }
 };
 </script>
@@ -168,102 +134,6 @@ export default {
     font-family: 'Inter', sans-serif;
     color: #333;
     background-color: #FAFAFA;
-}
-
-/* ======== Navbar ======== */
-.navbar {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 1.5rem 5%;
-    background: #2A7AE4;
-    color: white;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    position: sticky;
-    top: 0;
-    z-index: 1000;
-}
-
-.navbar .logo {
-    font-size: 2.2rem;
-    font-weight: bold;
-}
-
-.nav-links {
-    list-style: none;
-    display: flex;
-    gap: 2rem;
-}
-
-.nav-links li {
-    position: relative;
-}
-
-.nav-links li a {
-    color: white;
-    text-decoration: none;
-    font-size: 1.6rem;
-    transition: 0.3s;
-}
-
-.nav-links li a:hover {
-    opacity: 0.8;
-}
-
-/* ======== Dropdown ======== */
-.dropdown .dropbtn {
-    display: flex;
-    align-items: center;
-}
-
-.dropdown .arrow {
-    border: solid white;
-    border-width: 0 2px 2px 0;
-    display: inline-block;
-    padding: 5px;
-    margin-left: 5px;
-    transform: rotate(45deg);
-    transition: transform 0.3s ease;
-}
-
-/* Estilizando o dropdown */
-.dropdown-content {
-    display: none;
-    position: absolute;
-    top: 100%;
-    left: 0;
-    background: #2A7AE4;
-    min-width: 200px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-    border-radius: 8px;
-    overflow: hidden;
-}
-
-.dropdown-content li {
-    list-style: none;
-}
-
-.dropdown-content a {
-    display: block;
-    padding: 12px 16px;
-    color: #333;
-    text-decoration: none;
-    transition: background 0.3s ease;
-}
-
-.dropdown-content a:hover {
-    background: white;
-    color: #2A7AE4;
-}
-
-/* Exibir o dropdown ao passar o mouse */
-.dropdown:hover .dropdown-content {
-    display: block;
-}
-
-/* Animação para seta girar ao abrir o dropdown */
-.dropdown:hover .arrow {
-    transform: rotate(225deg);
 }
 
 /* ======== Hero Section ======== */
@@ -350,35 +220,8 @@ export default {
     box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
 }
 
-/* ======== Footer ======== */
-.footer {
-    background: #264653;
-    color: white;
-    text-align: center;
-    padding: 2rem;
-    margin-top: 3rem;
-    font-size: 1.4rem;
-}
-
 /* ======== Responsividade ======== */
 @media (max-width: 768px) {
-    .navbar {
-        flex-direction: column;
-
-        text-align: center;
-    }
-
-    .nav-links {
-        flex-direction: column;
-
-        gap: 1rem;
-    }
-
-    .dropdown-content {
-        position: relative;
-        width: 100%;
-    }
-
     .hero h1 {
         font-size: 2.5rem;
     }
