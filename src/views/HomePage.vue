@@ -18,8 +18,11 @@
                     </ul>
                 </li>
 
-                <li><a href="#">Contato</a></li>
+                <!-- Botão para abrir o modal -->
+                <li><a href="#" @click.prevent="openModal">Contato</a></li>
             </ul>
+            <!-- Modal de Contato -->
+            <ModalContato :show="modalOpen" @close="modalOpen = false" />
         </nav>
 
         <!-- Hero Section -->
@@ -130,14 +133,24 @@
 </template>
 
 <script>
+import ModalContato from "../components/ModalContato.vue";
+
 export default {
+    name: "HomePage",
+    components: { ModalContato },
     data() {
         return {
+            modalOpen: false,
             courses: [
                 "Inglês 1", "Inglês 2", "Inglês 3", "Inglês 4", "Inglês 5", "Inglês 6",
                 "Inglês 7", "Inglês 8", "Inglês 9", "Inglês 10", "Inglês 11", "Inglês 12", "Inglês 13"
-            ]
+            ],
         };
+    },
+    methods: {
+        openModal() {
+            this.modalOpen = true;
+        },
     }
 };
 </script>
@@ -351,13 +364,13 @@ export default {
 @media (max-width: 768px) {
     .navbar {
         flex-direction: column;
-        
+
         text-align: center;
     }
 
     .nav-links {
         flex-direction: column;
-        
+
         gap: 1rem;
     }
 
