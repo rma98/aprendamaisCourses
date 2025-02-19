@@ -239,8 +239,8 @@ export default {
 }
 
 .dropdown-content a:hover {
-    background: #2A7AE4;
-    color: white;
+    background: white;
+    color: #2A7AE4;
 }
 
 /* Exibir o dropdown ao passar o mouse */
