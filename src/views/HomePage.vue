@@ -3,9 +3,21 @@
         <!-- Navbar -->
         <nav class="navbar">
             <div class="logo">AprendaMais</div>
+
+            <!-- Menu principal -->
             <ul class="nav-links">
                 <li><a href="#">Início</a></li>
-                <li><a href="#">Cursos</a></li>
+
+                <!-- Dropdown de Cursos -->
+                <li class="dropdown">
+                    <a href="#" class="dropbtn">Cursos <i class="arrow down"></i></a>
+                    <ul class="dropdown-content">
+                        <li v-for="course in courses" :key="course">
+                            <a href="#">{{ course }}</a>
+                        </li>
+                    </ul>
+                </li>
+
                 <li><a href="#">Contato</a></li>
             </ul>
         </nav>
@@ -117,6 +129,19 @@
     </div>
 </template>
 
+<script>
+export default {
+    data() {
+        return {
+            courses: [
+                "Inglês 1", "Inglês 2", "Inglês 3", "Inglês 4", "Inglês 5", "Inglês 6",
+                "Inglês 7", "Inglês 8", "Inglês 9", "Inglês 10", "Inglês 11", "Inglês 12", "Inglês 13"
+            ]
+        };
+    }
+};
+</script>
+
 <style scoped>
 /* ======== Reset básico ======== */
 * {
@@ -157,6 +182,10 @@
     gap: 2rem;
 }
 
+.nav-links li {
+    position: relative;
+}
+
 .nav-links li a {
     color: white;
     text-decoration: none;
@@ -166,6 +195,62 @@
 
 .nav-links li a:hover {
     opacity: 0.8;
+}
+
+/* ======== Dropdown ======== */
+.dropdown .dropbtn {
+    display: flex;
+    align-items: center;
+}
+
+.dropdown .arrow {
+    border: solid white;
+    border-width: 0 2px 2px 0;
+    display: inline-block;
+    padding: 5px;
+    margin-left: 5px;
+    transform: rotate(45deg);
+    transition: transform 0.3s ease;
+}
+
+/* Estilizando o dropdown */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background: #2A7AE4;
+    min-width: 200px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    border-radius: 8px;
+    overflow: hidden;
+}
+
+.dropdown-content li {
+    list-style: none;
+}
+
+.dropdown-content a {
+    display: block;
+    padding: 12px 16px;
+    color: #333;
+    text-decoration: none;
+    transition: background 0.3s ease;
+}
+
+.dropdown-content a:hover {
+    background: #2A7AE4;
+    color: white;
+}
+
+/* Exibir o dropdown ao passar o mouse */
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* Animação para seta girar ao abrir o dropdown */
+.dropdown:hover .arrow {
+    transform: rotate(225deg);
 }
 
 /* ======== Hero Section ======== */
@@ -266,12 +351,19 @@
 @media (max-width: 768px) {
     .navbar {
         flex-direction: column;
+        
         text-align: center;
     }
 
     .nav-links {
         flex-direction: column;
+        
         gap: 1rem;
+    }
+
+    .dropdown-content {
+        position: relative;
+        width: 100%;
     }
 
     .hero h1 {
