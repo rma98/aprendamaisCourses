@@ -4,14 +4,14 @@
 
         <!-- Menu principal -->
         <ul class="nav-links">
-            <li><a href="#">Início</a></li>
+            <li><a href="/">Início</a></li>
 
             <!-- Dropdown de Cursos -->
             <li class="dropdown">
                 <a href="#" class="dropbtn">Cursos <i class="arrow down"></i></a>
                 <ul class="dropdown-content">
                     <li v-for="course in courses" :key="course">
-                        <a href="#">{{ course }}</a>
+                        <router-link :to="`/ingles/${course.number}/pag01`">{{ course.name }}</router-link>
                     </li>
                 </ul>
             </li>
@@ -34,8 +34,19 @@ export default {
         return {
             modalOpen: false,
             courses: [
-                "Inglês 1", "Inglês 2", "Inglês 3", "Inglês 4", "Inglês 5", "Inglês 6",
-                "Inglês 7", "Inglês 8", "Inglês 9", "Inglês 10", "Inglês 11", "Inglês 12", "Inglês 13"
+                { name: "Inglês 1", number: "1" },
+                { name: "Inglês 2", number: "2" },
+                { name: "Inglês 3", number: "3" },
+                { name: "Inglês 4", number: "4" },
+                { name: "Inglês 5", number: "5" },
+                { name: "Inglês 6", number: "6" },
+                { name: "Inglês 7", number: "7" },
+                { name: "Inglês 8", number: "8" },
+                { name: "Inglês 9", number: "9" },
+                { name: "Inglês 10", number: "10" },
+                { name: "Inglês 11", number: "11" },
+                { name: "Inglês 12", number: "12" },
+                { name: "Inglês 13", number: "13" }
             ],
         };
     },
