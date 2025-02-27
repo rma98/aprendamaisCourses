@@ -128,7 +128,7 @@
         <p>Quando você está se apresentando a alguém, após cumprimentar essa pessoa, o próximo passo será dizer seu
             nome. Em inglês, você pode fazer isso de duas formas. Ouça cada uma delas e depois repita substituindo por
             seu nome ao final de cada frase:</p>
-        <img src="../../assets/images/foto002.png" alt="Rosa chegando aos EUA" class="responsive-image">
+        <img src="../../assets/images/foto002.png" alt="" class="responsive-image">
         <div class="content-table">
             <h4>Quadro 3 - Introduction</h4>
             <table>
@@ -158,7 +158,7 @@
             Ela é recebida por John Smith, o director da College. Nesta conversa, a tendência é que Rosa tenha um
             comportamento um pouco mais formal ao se apresentar, diferente de como agiu quando conversou com suas
             housemates. Observe como se dá a conversa:</p>
-        <img src="../../assets/images/foto003.png" alt="Rosa chegando aos EUA" class="responsive-image">
+        <img src="../../assets/images/foto003.png" alt="" class="responsive-image">
         <div class="dialogue-box">
             <p class="dialogue">
                 <strong>Rosa:</strong> Excuse me.<br>
@@ -293,7 +293,7 @@
             Schleiermacher é difícil para brasileiros, não é verdade? Para resolver situações como essa, conhecer o
             alfabeto e conseguir soletrar as palavras é fundamental. Acompanhe como isso acontece em um diálogo entre
             Rosa e um funcionário do aeroporto de Chicago:</p>
-        <img src="../../assets/images/foto004.png" alt="Rosa chegando aos EUA" class="responsive-image">
+        <img src="../../assets/images/foto004.png" alt="" class="responsive-image">
         <div class="dialogue-box">
             <p class="dialogue">
                 <strong>Attendant:</strong> Good afternoon, may I help you?<br>
@@ -398,6 +398,604 @@
         <p>Com o conteúdo estudado até o momento é possível que já você já consiga saudar e despedir-se, comunicar-se de
             modo cordial e informar nome e endereço de e-mail. Para dar continuidade na sua aprendizagem, é necessário
             estudar os subject pronoums.</p>
+
+        <h3 class="sub-heading">1.6 Subject pronouns</h3>
+        <p>Observe o exemplo abaixo:</p>
+        <p><strong>Dube</strong> é um rapaz muito inteligente e divertido. <strong>Dube</strong> se
+            apresenta em um Pub toda a semana. <strong>Dube</strong> é namorado de <strong>Christine</strong>.
+            <strong>Christine</strong>, às vezes, se estressa com <strong>Dube</strong> por conta de seu
+            jeito despreocupado de levar a vida. <strong>Dube</strong> e <strong>Christine</strong> se
+            conhecem há bastante tempo.
+        </p>
+        <p>É repetitivo usar o nome de Dube e Christine em todo texto, não é verdade? Quando precisamos nos referir às
+            pessoas sem utilizar o nome, fazemos uso dos pronomes pessoais. Com isso, o texto poderia ficar assim:</p>
+        <p><strong>Dube</strong> é um rapaz muito inteligente e divertido. <strong>Ele</strong> se
+            apresenta em um Pub toda a semana. <strong>Dube</strong> é namorado de <strong>Christine</strong>.
+            <strong>Ela</strong>, às vezes, se estressa com <strong>ele</strong> por conta do jeito
+            despreocupado do rapaz de levar a vida. <strong>Eles</strong> se conhecem há bastante tempo.
+        </p>
+        <p>O uso de pronomes sujeitos para não tornar o texto redundante também acontece em inglês. No caso do exemplo,
+            todas as ocorrências com os nomes Dube e Christine estão em posição de sujeito da oração, por isso
+            utilizamos os pronomes sujeito para substituir os nomes. Os <strong>subject pronouns</strong> são
+            chamados assim por substituírem o sujeito da oração e, na língua inglesa, não pode ser omitido. Veja a
+            relação dos pronomes sujeitos:</p>
+        <div class="content-table">
+            <h4>Quadro 7 - Subject pronouns</h4>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Subject pronouns</th>
+                        <th>Examples</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>I</td>
+                        <td>I am a journalist.</td>
+                    </tr>
+                    <tr>
+                        <td>You (singular)</td>
+                        <td>You are a comedian</td>
+                    </tr>
+                    <tr>
+                        <td>He</td>
+                        <td>John is a director.<br>
+                            He is a director.</td>
+                    </tr>
+                    <tr>
+                        <td>She</td>
+                        <td>Rosa is a student.<br>
+                            She is a student.</td>
+                    </tr>
+                    <tr>
+                        <td>It</td>
+                        <td>Mike is my dog.<br>
+                            It is my dog.</td>
+                    </tr>
+                    <tr>
+                        <td>We</td>
+                        <td>Rosa and I are in Chicago.<br>
+                            We are in Chicago.</td>
+                    </tr>
+                    <tr>
+                        <td>You (plural)</td>
+                        <td>You are Billy and Victor.</td>
+                    </tr>
+                    <tr>
+                        <td>They</td>
+                        <td>Billy and uncle Charles are from the United Kingdom.<br>
+                            They are from the United Kingdom.</td>
+                    </tr>
+                </tbody>
+            </table>
+            <ul>
+                <li>A primeira pessoa do singular “I” é sempre escrita em letra maiúscula.</li>
+                <li>É possível que, antes de saberem o sexo de um bebê em gestação, as pessoas se refiram a ele com it.
+                </li>
+                <li>It também é utilizado para objetos ou para animais no singular quando não se sabe (ou não interessa)
+                    o sexo. Contudo, quando são animais de estimação e provavelmente sabemos seu sexo é comum usarmos
+                    he/she.</li>
+                <li>Em português, orações do tipo “Está frio” não possuem sujeito. Já no inglês, em casos como esse,
+                    usaríamos o It, uma vez que o verbo sempre é acompanhado de sujeito: <strong>It is
+                        cold.</strong></li>
+                <li>Há dois usos do pronome you: para designar o singular e para designar o plural, sabendo-se que a
+                    diferenciação entre os dois será feita através do contexto. Por exemplo: <strong>You are
+                        my best friend. You are my best friends.</strong></li>
+            </ul>
+            <p>O pronome they pode se referir ao plural de substantivos masculinos, femininos, como também masculinos e
+                femininos juntos. Para seguir ampliando o conteúdo que lhe ajudará a fornecer informações sobre si para
+                outras pessoas é preciso conhecer o verbo To be.</p>
+        </div>
+
+        <h3 class="sub-heading">1.7 Verb To be</h3>
+        <p>To be é normalmente o primeiro verbo que se aprende já que é usado para falarmos de nós mesmos, por
+            significar ser ou estar. Veja, por exemplo, como ele aparece logo no início do diálogo entre Rosa e o
+            diretor da Columbus College of Chicago quando eles falam de si mesmos:</p>
+        <img src="../../assets/images/foto005.png" alt="" class="responsive-image">
+        <div class="dialogue-box">
+            <p class="dialogue">
+                <strong>Mr. Smith:</strong> Good morning! Welcome to Columbus College of Chicago! My name is John Smith
+                and I’m the dean here. What is your name?<br>
+                <strong>Rosa:</strong> Good morning. My name is Rosa Souza.
+            </p>
+            <p>O To be é um verbo com exceção para várias regras relativas a outros verbos em inglês, ele é um dos
+                poucos que sofrem variação ao ser conjugado de acordo com seu respectivo sujeito.</p>
+            <h3 class="sub-heading">To be - affirmative</h3>
+            <p>Veja a conjugação do verbo To be no presente simples na forma afirmativa:</p>
+            <div class="content-table">
+                <h4>Quadro 8 - Affimative</h4>
+                <table>
+                    <thead>
+                        <tr>
+                            <th>Affimative</th>
+                            <th>Contraction</th>
+                            <th>Português</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>I am</td>
+                            <td>I'm</td>
+                            <td>Eu sou / estou</td>
+                        </tr>
+                        <tr>
+                            <td>You are</td>
+                            <td>You're</td>
+                            <td>Você é / está - tu és / estás</td>
+                        </tr>
+                        <tr>
+                            <td>He is</td>
+                            <td>He's</td>
+                            <td>Ele é / está</td>
+                        </tr>
+                        <tr>
+                            <td>She is</td>
+                            <td>She's</td>
+                            <td>Ela é / está</td>
+                        </tr>
+                        <tr>
+                            <td>It is</td>
+                            <td>It's</td>
+                            <td>Ele (a) é / está</td>
+                        </tr>
+                        <tr>
+                            <td>We are</td>
+                            <td>We're</td>
+                            <td>Nós somos / estamos</td>
+                        </tr>
+                        <tr>
+                            <td>You are</td>
+                            <td>You're</td>
+                            <td>Vocês são / estão - vós sois / estais</td>
+                        </tr>
+                        <tr>
+                            <td>They are</td>
+                            <td>They're</td>
+                            <td>Eles são / estão</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+        <div class="content-img">
+            <img src="../../assets/images/foto006.png" alt="" class="styled-img">
+            <img src="../../assets/images/foto007.png" alt="" class="styled-img">
+            <img src="../../assets/images/foto008.png" alt="" class="styled-img">
+        </div>
+        <h3 class="sub-heading">To be - negative</h3>
+        <p>Já a forma negativa do verbo To be é construída acrescentando-se a partícula not à sua forma afirmativa.
+            Observe que é possível tanto manter a contraction do pronome com o verbo quanto contrair o verbo com o not.
+        </p>
+        <div class="content-table">
+            <h4>Quadro 9 - Negative</h4>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Negative</th>
+                        <th>Contraction</th>
+                        <th>Português</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>I am not</td>
+                        <td>I’m not</td>
+                        <td>Eu não sou / não estou</td>
+                    </tr>
+                    <tr>
+                        <td>You are not</td>
+                        <td>You’re not / You aren't</td>
+                        <td>Você não é / não está - tu não és / Não estás</td>
+                    </tr>
+                    <tr>
+                        <td>He is not</td>
+                        <td>He’s not / He isn't</td>
+                        <td>Ele não é / está</td>
+                    </tr>
+                    <tr>
+                        <td>She is not</td>
+                        <td>She’s not / She ins't</td>
+                        <td>Ela não é / não está</td>
+                    </tr>
+                    <tr>
+                        <td>It is not</td>
+                        <td>It’s not / It isn't</td>
+                        <td>Ele (a) não é / não está</td>
+                    </tr>
+                    <tr>
+                        <td>We are not</td>
+                        <td>We’re not / We aren't</td>
+                        <td>Nós não somos / não estamos</td>
+                    </tr>
+                    <tr>
+                        <td>You are not</td>
+                        <td>You’re not / You aren't</td>
+                        <td>Vocês não são / não estão - Vós não sois / não estais</td>
+                    </tr>
+                    <tr>
+                        <td>They are not</td>
+                        <td>They’re not / They aren't</td>
+                        <td>Eles não são / não estão</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="highlights">
+            <span>I'm not Rosa Souza, and I'm not at the library.</span>
+            <span>You aren't Mr. Smith, and you're not in the office.</span>
+            <span>We aren't students. We're not in the classrom.</span>
+        </div>
+        <h3 class="sub-heading">To be - interrogative</h3>
+        <p>Na forma interrogativa, ocorre uma inversão da ordem sujeito-verbo, ou seja, o verbo To be localiza-se antes
+            do sujeito. Acompanhe a tabela:</p>
+        <div class="content-table">
+            <h4>Quadro 10 - Interrogative</h4>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Interrogative</th>
+                        <th>Português</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Am I?</td>
+                        <td>Eu sou / estou?</td>
+                    </tr>
+                    <tr>
+                        <td>Are you?</td>
+                        <td>Você é / está - tu és / estás?</td>
+                    </tr>
+                    <tr>
+                        <td>Is he?</td>
+                        <td>Ele é / está?</td>
+                    </tr>
+                    <tr>
+                        <td>Is she?</td>
+                        <td>Ela é / está?</td>
+                    </tr>
+                    <tr>
+                        <td>Is it?</td>
+                        <td>Ele (a) é / está?</td>
+                    </tr>
+                    <tr>
+                        <td>Are we?</td>
+                        <td>Nós somos / estamos?</td>
+                    </tr>
+                    <tr>
+                        <td>Are you?</td>
+                        <td>Vocês são / estão - Vós sois / estais?</td>
+                    </tr>
+                    <tr>
+                        <td>Are they?</td>
+                        <td>Eles são / estão?</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <p>Observe a inversão entre sujeito e verbo no exemplo a seguir:</p>
+        <img src="../../assets/images/foto009.png" alt="" class="responsive-image">
+        <div class="highlights">
+            <span>Are they at the college?</span>
+            <span>Is Mr. Smith in the office?</span>
+            <span>Is Dube in the pub today?</span>
+        </div>
+        <p>As Yes/No Questions com o verbo To be exigem respostas do tipo Sim ou Não. Essas respostas são chamadas de
+            short answers (respostas curtas). Veja como elas são estruturadas:</p>
+        <div class="content-table">
+            <h4>Quadro 11 - Questions</h4>
+            <table>
+                <thead>
+                    <tr>
+                        <th>QUESTIONS<br><br>
+
+                            To be
+                        </th>
+                        <th>SHORT ANSWERS<br><br>
+
+                            Affirmative
+                        </th>
+                        <th>SHORT ANSWERS<br><br>
+
+                            Negativa
+                        </th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Am I right?</td>
+                        <td>Yes, you are.</td>
+                        <td>No, you aren’t.</td>
+                    </tr>
+                    <tr>
+                        <td>Are you a student?</td>
+                        <td>Yes, I am.</td>
+                        <td>No, I’m not.</td>
+                    </tr>
+                    <tr>
+                        <td>Is he a teacher?</td>
+                        <td>Yes, he is.</td>
+                        <td>No, he isn’t.</td>
+                    </tr>
+                    <tr>
+                        <td>Is she a secretary?</td>
+                        <td>Yes, she is.</td>
+                        <td>No, she isn’t.</td>
+                    </tr>
+                    <tr>
+                        <td>Is it a library?</td>
+                        <td>Yes, it is.</td>
+                        <td>No, it isn’t.</td>
+                    </tr>
+                    <tr>
+                        <td>Are we in the USA?</td>
+                        <td>Yes, we are.<br><br>
+
+                            Yes, you are.
+                        </td>
+                        <td>No, we aren’t.<br><br>
+
+                            No, you aren’t.
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Are you American?</td>
+                        <td>Yes, we are.</td>
+                        <td>No, we aren’t.</td>
+                    </tr>
+                    <tr>
+                        <td>Are they classmates?</td>
+                        <td>Yes, they are.</td>
+                        <td>No, they aren’t.</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <p>Observe que nas short answers afirmativas não utilizamos contractions - o verbo To be aparece sempre separado
+            do pronome. Já nas negativas, costuma-se utilizar uma das formas com contraction apresentadas na tabela.
+            Quando uma pessoa responde a uma pergunta envolvendo o pronome we é importante lembrar que ela pode ou não
+            estar incluída, o que influencia na escolha do pronome para a resposta. Ele pode então ser we (a pessoa que
+            responde se inclui) ou you (os outros), ou seja, quem responde não se inclui. Observe no exemplo:</p>
+        <p><strong>Are we at home?</strong></p>
+        <p>Yes, we are.</p>
+        <p>Yes you are.</p>
+        <p>Por fim, sempre surge a dúvida: “Posso responder uma Yes/No Question dizendo simplesmente Yes ou No?” A
+            resposta é: sim, mas isso depende da situação. Quando se trata de uma situação informal, como em uma
+            conversa entre amigos ou familiares, você pode responder com Yes ou No. Se a situação for formal, por
+            exemplo, em uma conversa entre você e o seu advisor, é preferível utilizar as short answers.O verbo To be
+            permite que você se comunique em distintas situações. A seguir você estudará os possessive adjectives que
+            lhe auxiliarão a expressar posse.</p>
+        <h3 class="sub-heading">1.8 Possessive adjectives</h3>
+        <p>Os possessive adjectives são os adjetivos possessivos em inglês, ou seja, palavras que designam que alguém
+            possui alguma coisa.</p>
+        <p>O fato de serem <strong>adjetivos possessivos</strong> implica terem uma posição fixa - antes
+            daquilo que é possuído - e <strong>não variarem em número em função da posse</strong> - ou seja,
+            não há diferença se a coisa possuída for singular ou plural. Já a <strong>pessoa que
+                possui</strong> pode variar em singular ou plural.</p>
+        <p>Por exemplo, ao ver Amanda pela primeira vez, no aeroporto, Rosa pensou:</p>
+        <img src="../../assets/images/foto010.png" alt="" class="responsive-image">
+        <div class="highlights">
+            <span>Her shoes are stylish too.</span>
+            <span>= "Os sapatos dela também são elegantes."</span>
+            <span>Her coat is gorgeous.</span>
+            <span>= "O casaco dela é lindo."</span>
+        </div>
+        <p>O adjetivo possessivo her refere-se à Amanda (pessoa do singular) que possui uma coisa também no singular
+            (casaco). Rosa nota ainda os sapatos de Amanda, e na frase, Her continua referindo-se a Amanda (pessoa do
+            singular), mas o que ela possui (os sapatos) é plural. Apesar disso, o possessive adjective (her) continua o
+            mesmo. Observe outra situação. Enquanto Amanda dirige para casa, Rosa a indaga sobre como são Christine e
+            Carly. Amanda comenta:</p>
+        <img src="../../assets/images/foto011.png" alt="" class="responsive-image">
+        <div class="highlights">
+            <span>Their personalities are very different.</span>
+            <span>= "A personalidade delas é bem diferente."</span>
+        </div>
+        <p>O pronome possessivo their (delas) refere-se à Christine e Carly (pessoas do plural - they),
+            independentemente do que elas possuem. Ao chegar em frente à casa das meninas, Rosa igualmente utiliza their
+            porque a casa é delas, ainda que o que elas possuem (a casa) seja singular. Veja:</p>
+        <img src="../../assets/images/foto012.png" alt="" class="responsive-image">
+        <div class="highlights">
+            <span>Their house looks amazing!</span>
+            <span>= "A casa delas parece incrível!"</span>
+        </div>
+        <p>Relembrando então: o possessive adjective se refere a quem possui, sendo independente daquilo que é possuído.
+            Observe a lista dos adjetivos possessivos em relação às pessoas do singular e do plural:</p>
+        <div class="content-table">
+            <h4>Quadro 12 - Subject pronouns and Possessive adjectives</h4>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Subject pronouns</th>
+                        <th>Possessive adjectives</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>I</td>
+                        <td>My</td>
+                    </tr>
+                    <tr>
+                        <td>You</td>
+                        <td>Your</td>
+                    </tr>
+                    <tr>
+                        <td>He</td>
+                        <td>His</td>
+                    </tr>
+                    <tr>
+                        <td>She</td>
+                        <td>Her</td>
+                    </tr>
+                    <tr>
+                        <td>It</td>
+                        <td>Its</td>
+                    </tr>
+                    <tr>
+                        <td>You</td>
+                        <td>Your</td>
+                    </tr>
+                    <tr>
+                        <td>They</td>
+                        <td>Their</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <p>Mais uma vez, é bom lembrar que os adjetivos possessivos sempre vêm seguidos daquilo que é possuído. Assim, a
+            frase Her is beautiful (Dela é lindo) é tão incorreta em inglês quanto em português, pois falta a palavra
+            possuída (dela o quê?).</p>
+        <h3 class="sub-heading">Similar sounds in Possessive adjectives and to be contractions</h3>
+        <p>Você recentemente viu que o verb To be, quando contraído com o subject pronoun, adquire uma pronúncia
+            diferente da que teria se estivesse por extenso. O som da contraction acaba por assemelhar-se à pronúncia do
+            possessive pronoun correspondente. Percebendo isso você poderá identificar que, apesar de algumas soarem
+            iguais e outras parecidas para aprendizes de língua inglesa, estas contractions e os possessives têm
+            significados bem diferentes.</p>
+        <div class="content-table">
+            <h4>Quadro 13 - Contractions</h4>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Contractions</th>
+                        <th>Possessive pronouns</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Your're</td>
+                        <td>Your</td>
+                    </tr>
+                    <tr>
+                        <td>He's</td>
+                        <td>His</td>
+                    </tr>
+                    <tr>
+                        <td>It's</td>
+                        <td>Its</td>
+                    </tr>
+                    <tr>
+                        <td>They're</td>
+                        <td>Their</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <p>Outro uso muito importante para o Verb to be e os Possessive pronouns é a designação das nacionalidades. Para
+            isso, acompanhe a seguir o nome de alguns countries e nationalities.</p>
+
+        <h3 class="sub-heading">1.9 Countries and nationalities</h3>
+        <p>Quando você está no exterior, é comum mencionar seu país e/ou cidade de origem ou sua nacionalidade. Da mesma
+            forma, pessoas estrangeiras vão lhe informar sua origem, portanto é importante conhecer os nomes dos países
+            e as nacionalidades em inglês. Observe a continuação da conversa de Rosa com o funcionário na chegada ao
+            aeroporto.</p>
+        <img src="../../assets/images/foto013.png" alt="" class="responsive-image">
+        <div class="dialogue-box">
+            <p class="dialogue">
+                <strong>Attendant:</strong> All right. Where are you from, Miss Souza?<br>
+                <strong>Rosa:</strong> I’m from Brazil.<br>
+                <strong>Attendant:</strong> Oh, right. You’re Brazilian. Nice to meet you, Rosa.<br>
+                <strong>Rosa:</strong> Nice to meet you too. Are you from the USA?<br>
+                <strong>Attendant:</strong> No... I’m from Canada.<br>
+                <strong>Rosa:</strong> All right, you’re Canadian!
+            </p>
+        </div>
+        <iframe class="responsive-video" width="560" height="315"
+            src="https://www.youtube.com/embed/ebS4tChmY-Y?si=bYU5CiqkjnX4B5HY" title="YouTube video player"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+            referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <p>Observe no diálogo que o atendente pergunta à Rosa:</p>
+        <img src="../../assets/images/foto014.png" alt="" class="responsive-image">
+        <p>A palavra where acompanhada da preposição from (que nessa pergunta vem obrigatoriamente ao final da frase), é
+            utilizada para saber de onde uma pessoa vem, ou seja, sua origem - país ou cidade. Perceba a inversão que
+            ocorre em are you, que é obrigatória por ser uma pergunta. Na resposta de Rosa, por ser uma afirmação, a
+            inversão já não é mais necessária. Observe:</p>
+        <p><strong>I'm</strong> from Brazil.</p>
+        <p>Perceba que Rosa se refere a seu país como <strong>Brazil</strong> e o atendente à sua nacionalidade
+            como Brazilian. Veja como outros países e nacionalidades são designados em inglês:</p>
+        <p>Flags, countries and nationalities:</p>
+        <div class="content-img">
+            <img src="../../assets/images/foto015.png" alt="" class="styled-img flags">
+            <img src="../../assets/images/foto016.png" alt="" class="styled-img flags">
+            <img src="../../assets/images/foto017.png" alt="" class="styled-img flags">
+            <img src="../../assets/images/foto018.png" alt="" class="styled-img flags">
+            <img src="../../assets/images/foto019.png" alt="" class="styled-img flags">
+            <img src="../../assets/images/foto020.png" alt="" class="styled-img flags">
+            <img src="../../assets/images/foto021.png" alt="" class="styled-img flags">
+            <img src="../../assets/images/foto022.png" alt="" class="styled-img flags">
+            <img src="../../assets/images/foto023.png" alt="" class="styled-img flags">
+            <img src="../../assets/images/foto024.png" alt="" class="styled-img flags">
+            <img src="../../assets/images/foto025.png" alt="" class="styled-img flags">
+            <img src="../../assets/images/foto026.png" alt="" class="styled-img flags">
+            <img src="../../assets/images/foto027.png" alt="" class="styled-img flags">
+            <img src="../../assets/images/foto028.png" alt="" class="styled-img flags">
+            <img src="../../assets/images/foto029.png" alt="" class="styled-img flags">
+            <img src="../../assets/images/foto030.png" alt="" class="styled-img flags">
+            <img src="../../assets/images/foto031.png" alt="" class="styled-img flags">
+            <img src="../../assets/images/foto032.png" alt="" class="styled-img flags">
+            <img src="../../assets/images/foto033.png" alt="" class="styled-img flags">
+            <img src="../../assets/images/foto034.png" alt="" class="styled-img flags">
+            <img src="../../assets/images/foto035.png" alt="" class="styled-img flags">
+            <img src="../../assets/images/foto036.png" alt="" class="styled-img flags">
+            <img src="../../assets/images/foto037.png" alt="" class="styled-img flags">
+            <img src="../../assets/images/foto038.png" alt="" class="styled-img flags">
+            <img src="../../assets/images/foto039.png" alt="" class="styled-img flags">
+            <img src="../../assets/images/foto040.png" alt="" class="styled-img flags">
+            <img src="../../assets/images/foto041.png" alt="" class="styled-img flags">
+            <img src="../../assets/images/foto042.png" alt="" class="styled-img flags">
+        </div>
+        <div class="highlights">
+            <span>Mind the gap: Geralmente o artigo definido “The” não é
+                usado na frente de nomes próprios. Contudo, quando falamos sobre países e localizações geográficas
+                devemos observar que o uso se aplica para: Países cujos nomes tenham as palavras kingdom, states or
+                republic: Exemplo: the United Kingdom, the United States; Países cujos nomes já são pluralizados:
+                Exemplo: the Netherlands; the Philippines; Localizações geográficas: Exemplo: the Atlantic Ocean; the
+                Amazon.</span>
+        </div>
+        <h3 class="sub-heading">No hugging, please!</h3>
+        <img src="../../assets/images/foto043.png" alt="" class="responsive-image">
+        <p>Brazil and the United States are different not only in terms of their languages, but also in their customs.
+            One important area in which the two countries are different is physical contact. Brazilian people are often
+            very affectionate: they touch, hug or kiss people when they meet. American people usually only hug or kiss
+            family members and close friends. If you watched the episode, you probably noticed how uncomfortable Carly
+            felt when Rosa hugged her the moment they first met. So, when you meet someone - and especially when you
+            meet a person for the first time or you are introduced to someone -, no hugging or kissing, please! Brazil
+            and USA deal with physical contact in a different way, so, just a wave or a handshake is OK.</p>
+
+        <h3 class="sub-heading">1.10 Resumo e glossário</h3>
+        <p>Glossary</p>
+        <div class="glossary">
+            <span>Small:</span> pequeno
+            <span>Town:</span> cidade
+            <span>Bedroom:</span> quarto
+            <span>Upstairs:</span> andar de cima
+            <span>Excuse me:</span> com licença
+            <span>Nice to meet you:</span> Prazer em conhecê-lo
+            <span>Here is your schedule:</span> aqui está o seu horário
+            <span>I’m from:</span> eu sou de...
+            <span>Advisor:</span> orientador
+            <span>Customs:</span> costumes
+            <span>In which:</span> na qual
+            <span>Often:</span> frequentemente
+            <span>Usually:</span> normalmente
+            <span>Affectionate:</span> afetuoso
+            <span>Close:</span> próximo
+            <span>To touch:</span> tocar
+            <span>To hug:</span> abraçar
+            <span>To kiss:</span> beijar
+            <span>To meet:</span> encontrar(-se)
+            <span>Someone:</span> alguém
+            <span>Just:</span> apenas
+            <span>Wave:</span> abano; aceno
+            <span>Handshake:</span> aperto de mão
+            <span>To have you as our student:</span> tê-la como nossa aluna
+            <span>Not only:</span> não só/não apenas
+        </div>
+        <div class="next-page">
+            <a href="/ingles/01/pag/02" class="next-button">
+                <span>Avançar</span>
+                <i class="fas fa-arrow-right"></i>
+            </a>
+        </div>
     </main>
 </template>
 
@@ -406,6 +1004,18 @@
 </script>
 
 <style scoped>
+/* Estilos principais para a página */
+.course-content {
+    font-family: 'Roboto', sans-serif;
+    color: #333;
+    max-width: 900px;
+    margin: 2rem auto;
+    padding: 2rem;
+    background: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
 .video-container {
     display: flex;
     flex-direction: column;
@@ -435,18 +1045,6 @@
     height: 315px;
     border-radius: 8px;
     box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
-}
-
-/* Estilos principais para a página */
-.course-content {
-    font-family: 'Roboto', sans-serif;
-    color: #333;
-    max-width: 900px;
-    margin: 2rem auto;
-    padding: 2rem;
-    background: #f9f9f9;
-    border-radius: 8px;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
 }
 
 .main-heading {
@@ -573,6 +1171,87 @@ td:hover {
     color: white;
 }
 
+.content-img {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+    padding: 20px;
+}
+
+.styled-img {
+    width: 100%;
+    max-width: 300px;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+}
+
+.styled-img.flags {
+    max-width: 157px;
+}
+
+.styled-img:hover {
+    transform: scale(1.05);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+}
+
+.glossary {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    padding: 20px;
+    background: #f9f9f9;
+    border-radius: 12px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    justify-content: center;
+}
+
+.glossary span {
+    background: linear-gradient(135deg, #ff7eb3, #ff758c);
+    color: white;
+    padding: 10px 15px;
+    border-radius: 8px;
+    font-weight: bold;
+    transition: transform 0.2s ease-in-out;
+    cursor: pointer;
+}
+
+.glossary span:hover {
+    transform: scale(1.05);
+    box-shadow: 0px 4px 15px rgba(255, 117, 140, 0.5);
+}
+
+.next-page {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 20px;
+}
+
+.next-button {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease-in-out;
+}
+
+.next-button i {
+    font-size: 20px;
+}
+
+.next-button:hover {
+    background-color: #45a049;
+    transform: scale(1.05);
+}
+
 @media (max-width: 600px) {
     .video-frame {
         height: 200px;
@@ -602,6 +1281,25 @@ td:hover {
     .highlights {
         flex-direction: column;
         align-items: center;
+    }
+
+    .content-img {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .glossary {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .next-button {
+        font-size: 16px;
+        padding: 10px 16px;
+    }
+
+    .next-button i {
+        font-size: 18px;
     }
 }
 </style>
