@@ -10,7 +10,7 @@
         <h2 class="main-heading">Tópico 1: Identificação e Caracterização Pessoal; Localização no Tempo e no Espaço</h2>
 
         <h3 class="sub-heading">1.1 Nice to meet you</h3>
-        <p class="intro-text">
+        <p class="paragraph-tex">
             Rosa chegou aos Estados Unidos e foi recebida por Amanda, que a levou até sua nova home para conhecer suas
             housemates. Neste momento Rosa, de uma forma espontânea abraça Carly, demonstrando alegria em ver suas novas
             amigas pela primeira vez. Ao encontrarem-se, as garotas saudaram-se e apresentaram-se. Acompanhe a
@@ -30,7 +30,7 @@
                 <strong>Carly:</strong> Of course! Let’s go… your bedroom is upstairs.
             </p>
         </div>
-        <p class="importance-text">
+        <p class="paragraph-tex">
             É importante observar que quando interagimos com pessoas precisamos nos comunicar com elas. Você pôde
             acompanhar que, ao se encontrarem, as garotas utilizam o "Hi" para se saudar. Para que você consiga saudar
             ou se despedir de alguém, no tópico a seguir você conhecerá algumas destas estruturas.
@@ -42,7 +42,8 @@
             referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
         <h3 class="sub-heading">1.2 Greetings and Goodbyes</h3>
-        <p>Cada cultura tem sua forma própria de saudar ou despedir-se de alguém. Observe na tabela algumas expressões
+        <p class="paragraph-tex">Cada cultura tem sua forma própria de saudar ou despedir-se de alguém. Observe na
+            tabela algumas expressões
             utilizadas nestas situações.</p>
         <div class="content-table">
             <h4>Quadro 1 - Greetings</h4>
@@ -118,14 +119,15 @@
                 </tbody>
             </table>
         </div>
-        <p class="next-topic-text">
+        <p class="paragraph-tex">
             Ao se comunicar, além de saudar e despedir-se, é preciso se apresentar. Veja no próximo tópico algumas
             estruturas para que você possa conversar com outras pessoas numa situação em que seja necessário falar de
             si.
         </p>
 
         <h3 class="sub-heading">1.3 Introducing yourself</h3>
-        <p>Quando você está se apresentando a alguém, após cumprimentar essa pessoa, o próximo passo será dizer seu
+        <p class="paragraph-tex">Quando você está se apresentando a alguém, após cumprimentar essa pessoa, o próximo
+            passo será dizer seu
             nome. Em inglês, você pode fazer isso de duas formas. Ouça cada uma delas e depois repita substituindo por
             seu nome ao final de cada frase:</p>
         <img src="../../assets/images/foto002.png" alt="" class="responsive-image">
@@ -150,11 +152,13 @@
                 </tbody>
             </table>
         </div>
-        <p>Seja em seu próprio país ou em um país estrangeiro, é muito importante ser polite. Rosa precisa se apresentar
+        <p class="paragraph-tex">Seja em seu próprio país ou em um país estrangeiro, é muito importante ser polite. Rosa
+            precisa se apresentar
             para o diretor de sua College, veja como eles interagem no tópico a seguir.</p>
 
         <h3 class="sub-heading">1.4 Being polite</h3>
-        <p>No dia seguinte, já instalada em sua nova house, Rosa está ansiosa por conhecer o campus onde irá estudar.
+        <p class="paragraph-tex">No dia seguinte, já instalada em sua nova house, Rosa está ansiosa por conhecer o
+            campus onde irá estudar.
             Ela é recebida por John Smith, o director da College. Nesta conversa, a tendência é que Rosa tenha um
             comportamento um pouco mais formal ao se apresentar, diferente de como agiu quando conversou com suas
             housemates. Observe como se dá a conversa:</p>
@@ -175,7 +179,8 @@
                 <strong>Mr. Smith:</strong> You’re welcome.
             </p>
         </div>
-        <p>Ao se apresentar ao Mr. Smith, Rosa utiliza a expressão "Nice to meet you" para expressar que havia sido um
+        <p class="paragraph-tex">Ao se apresentar ao Mr. Smith, Rosa utiliza a expressão "Nice to meet you" para
+            expressar que havia sido um
             prazer conhecê-lo. Existem outras expressões que transmitem essa mesma ideia. Veja quais são elas na tabela
             a seguir:</p>
         <div class="highlights">
@@ -183,7 +188,8 @@
             <span>Glad to meet you.</span>
             <span>Nice to meet you.</span>
         </div>
-        <p>Como há mais de uma expressão, você pode utilizar a que se sentir mais à vontade. Por outro lado, se alguém
+        <p class="paragraph-tex">Como há mais de uma expressão, você pode utilizar a que se sentir mais à vontade. Por
+            outro lado, se alguém
             se dirigir a você utilizando alguma dessas estruturas, você deverá usar a mesma acrescida de too para
             responder.</p>
         <div class="highlights">
@@ -191,7 +197,8 @@
             <span>Glad to meet you too.</span>
             <span>Nice to meet you too.</span>
         </div>
-        <p>Rosa também usa as expressões Excuse me e Thank you, que denotam cordialidade. Expressões como essa, que
+        <p class="paragraph-tex">Rosa também usa as expressões Excuse me e Thank you, que denotam cordialidade.
+            Expressões como essa, que
             indicam politeness são sempre utilizadas em inglês e constituem uma parte essencial da cultura dos países
             onde esse idioma é falado, portanto se acostume a utilizá-las. Para conhecer algumas dessas polite
             expressions acompanhe a seguir:</p>
@@ -228,12 +235,14 @@
                 </tbody>
             </table>
         </div>
-        <p>Nos países onde a língua inglesa é falada, a forma de dirigir-se a uma pessoa é um pouco mais formal do que
+        <p class="paragraph-tex">Nos países onde a língua inglesa é falada, a forma de dirigir-se a uma pessoa é um
+            pouco mais formal do que
             em nosso país. É muito importante que você não seja sempre informal, tratando seu interlocutor por “você” ou
             pelo primeiro nome, como se já fossem velhos conhecidos. Você deve estar atento às normas culturais do local
             onde está, especialmente, quando inserido em um contexto onde costumes e maneiras de viver divergem da sua.
             Tudo é uma questão de adaptação e respeito aos costumes locais.</p>
-        <p>Uma maneira de cumprir com esta formalidade é através do uso de Titles and names, que designam um modo mais
+        <p class="paragraph-tex">Uma maneira de cumprir com esta formalidade é através do uso de Titles and names, que
+            designam um modo mais
             polite para dirigir-se a alguém. Na conversa com o director, Rosa usa o pronome de tratamento Mr.
             acompanhado do last name Smith, demonstrando maior respeito e formalidade. Observe outros titles utilizados
             em inglês:</p>
@@ -254,7 +263,8 @@
                 universitário.
             </p>
         </div>
-        <p>Por isso, a não ser que a pessoa diga que pode chamá-la pelo primeiro nome, ou que você tenha confiança de
+        <p class="paragraph-tex">Por isso, a não ser que a pessoa diga que pode chamá-la pelo primeiro nome, ou que você
+            tenha confiança de
             que já tem um certo grau de intimidade para dirigir-se a ela pelo primeiro nome, você pode utilizar um title
             específico. Por exemplo, o nome de Rosa ficaria: Miss Souza. Como muitos desses títulos são utilizados com o
             last name da pessoa, é importante saber como se chamam as partes de um nome.</p>
@@ -279,7 +289,8 @@
                 </tbody>
             </table>
         </div>
-        <p>Para aperfeiçoar o sua aprendizagem na língua inglesa, a seguir você estudará o alfabeto que irá ajudá-lo na
+        <p class="paragraph-tex">Para aperfeiçoar o sua aprendizagem na língua inglesa, a seguir você estudará o
+            alfabeto que irá ajudá-lo na
             escrita e na pronúncia das palavras.</p>
         <iframe class="responsive-video" width="560" height="315"
             src="https://www.youtube.com/embed/v3hN4qxkVUE?si=bHjamApFTuwV0_r4" title="YouTube video player"
@@ -288,7 +299,8 @@
             referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
         <h3 class="sub-heading">1.5 The alphabet</h3>
-        <p>Numa situação comunicativa é comum haver dúvidas quanto à escrita de certos nomes de pessoas ou lugares. Para
+        <p class="paragraph-tex">Numa situação comunicativa é comum haver dúvidas quanto à escrita de certos nomes de
+            pessoas ou lugares. Para
             um estrangeiro, um sobrenome como, por exemplo, Magalhães, pode ser tão complicado de entender quanto
             Schleiermacher é difícil para brasileiros, não é verdade? Para resolver situações como essa, conhecer o
             alfabeto e conseguir soletrar as palavras é fundamental. Acompanhe como isso acontece em um diálogo entre
@@ -307,7 +319,8 @@
             frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
             referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        <p>Você deve ter percebido, pela forma como Rosa soletra seu sobrenome, que as letras em inglês têm “nomes”
+        <p class="paragraph-tex">Você deve ter percebido, pela forma como Rosa soletra seu sobrenome, que as letras em
+            inglês têm “nomes”
             diferentes do alfabeto português. Acompanhe a seguir a pronúncia do alfabeto em língua inglesa.</p>
         <div class="highlights">
             <span>A</span>
@@ -343,7 +356,8 @@
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
             referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         <h3 class="sub-heading">E-mail and web page addresses</h3>
-        <p>Entre as informações pessoais que podemos fornecer está o endereço de e-mail ou da web page. Estas
+        <p class="paragraph-tex">Entre as informações pessoais que podemos fornecer está o endereço de e-mail ou da web
+            page. Estas
             informações envolvem o uso de alguns caracteres específicos. Os mais comuns são:</p>
         <div class="content-table">
             <h4>Quadro 6 - Caracteres</h4>
@@ -384,37 +398,42 @@
                 </tbody>
             </table>
         </div>
-        <p>O endereço eletrônico de Rosa seria lido, então, da seguinte forma:</p>
+        <p class="paragraph-tex">O endereço eletrônico de Rosa seria lido, então, da seguinte forma:</p>
         <div class="highlights">
             <span>rosa.souza@facul.com.br</span>
             <span>= "rosa dot souza at facul dot com dot br"</span>
         </div>
-        <p>Já o web address da web page que Rosa acessava no Brasil para renovar sua matrícula na universidade é lido
+        <p class="paragraph-tex">Já o web address da web page que Rosa acessava no Brasil para renovar sua matrícula na
+            universidade é lido
             assim:</p>
         <div class="highlights">
             <span>www.facul.com.br/enrollment/sem_4</span>
             <span>= "www dot facul dot com dot br slash enrollment slash sem underscore four"</span>
         </div>
-        <p>Com o conteúdo estudado até o momento é possível que já você já consiga saudar e despedir-se, comunicar-se de
+        <p class="paragraph-tex">Com o conteúdo estudado até o momento é possível que já você já consiga saudar e
+            despedir-se, comunicar-se de
             modo cordial e informar nome e endereço de e-mail. Para dar continuidade na sua aprendizagem, é necessário
             estudar os subject pronoums.</p>
 
         <h3 class="sub-heading">1.6 Subject pronouns</h3>
-        <p>Observe o exemplo abaixo:</p>
-        <p><strong>Dube</strong> é um rapaz muito inteligente e divertido. <strong>Dube</strong> se
+        <p class="paragraph-tex">Observe o exemplo abaixo:</p>
+        <p class="paragraph-tex"><strong>Dube</strong> é um rapaz muito inteligente e divertido. <strong>Dube</strong>
+            se
             apresenta em um Pub toda a semana. <strong>Dube</strong> é namorado de <strong>Christine</strong>.
             <strong>Christine</strong>, às vezes, se estressa com <strong>Dube</strong> por conta de seu
             jeito despreocupado de levar a vida. <strong>Dube</strong> e <strong>Christine</strong> se
             conhecem há bastante tempo.
         </p>
-        <p>É repetitivo usar o nome de Dube e Christine em todo texto, não é verdade? Quando precisamos nos referir às
+        <p class="paragraph-tex">É repetitivo usar o nome de Dube e Christine em todo texto, não é verdade? Quando
+            precisamos nos referir às
             pessoas sem utilizar o nome, fazemos uso dos pronomes pessoais. Com isso, o texto poderia ficar assim:</p>
-        <p><strong>Dube</strong> é um rapaz muito inteligente e divertido. <strong>Ele</strong> se
+        <p class="paragraph-tex"><strong>Dube</strong> é um rapaz muito inteligente e divertido. <strong>Ele</strong> se
             apresenta em um Pub toda a semana. <strong>Dube</strong> é namorado de <strong>Christine</strong>.
             <strong>Ela</strong>, às vezes, se estressa com <strong>ele</strong> por conta do jeito
             despreocupado do rapaz de levar a vida. <strong>Eles</strong> se conhecem há bastante tempo.
         </p>
-        <p>O uso de pronomes sujeitos para não tornar o texto redundante também acontece em inglês. No caso do exemplo,
+        <p class="paragraph-tex">O uso de pronomes sujeitos para não tornar o texto redundante também acontece em
+            inglês. No caso do exemplo,
             todas as ocorrências com os nomes Dube e Christine estão em posição de sujeito da oração, por isso
             utilizamos os pronomes sujeito para substituir os nomes. Os <strong>subject pronouns</strong> são
             chamados assim por substituírem o sujeito da oração e, na língua inglesa, não pode ser omitido. Veja a
@@ -488,7 +507,8 @@
         </div>
 
         <h3 class="sub-heading">1.7 Verb To be</h3>
-        <p>To be é normalmente o primeiro verbo que se aprende já que é usado para falarmos de nós mesmos, por
+        <p class="paragraph-tex">To be é normalmente o primeiro verbo que se aprende já que é usado para falarmos de nós
+            mesmos, por
             significar ser ou estar. Veja, por exemplo, como ele aparece logo no início do diálogo entre Rosa e o
             diretor da Columbus College of Chicago quando eles falam de si mesmos:</p>
         <img src="../../assets/images/foto005.png" alt="" class="responsive-image">
@@ -498,10 +518,11 @@
                 and I’m the dean here. What is your name?<br>
                 <strong>Rosa:</strong> Good morning. My name is Rosa Souza.
             </p>
-            <p>O To be é um verbo com exceção para várias regras relativas a outros verbos em inglês, ele é um dos
+            <p class="paragraph-tex">O To be é um verbo com exceção para várias regras relativas a outros verbos em
+                inglês, ele é um dos
                 poucos que sofrem variação ao ser conjugado de acordo com seu respectivo sujeito.</p>
             <h3 class="sub-heading">To be - affirmative</h3>
-            <p>Veja a conjugação do verbo To be no presente simples na forma afirmativa:</p>
+            <p class="paragraph-tex">Veja a conjugação do verbo To be no presente simples na forma afirmativa:</p>
             <div class="content-table">
                 <h4>Quadro 8 - Affimative</h4>
                 <table>
@@ -563,7 +584,8 @@
             <img src="../../assets/images/foto008.png" alt="" class="styled-img">
         </div>
         <h3 class="sub-heading">To be - negative</h3>
-        <p>Já a forma negativa do verbo To be é construída acrescentando-se a partícula not à sua forma afirmativa.
+        <p class="paragraph-tex">Já a forma negativa do verbo To be é construída acrescentando-se a partícula not à sua
+            forma afirmativa.
             Observe que é possível tanto manter a contraction do pronome com o verbo quanto contrair o verbo com o not.
         </p>
         <div class="content-table">
@@ -626,7 +648,8 @@
             <span>We aren't students. We're not in the classrom.</span>
         </div>
         <h3 class="sub-heading">To be - interrogative</h3>
-        <p>Na forma interrogativa, ocorre uma inversão da ordem sujeito-verbo, ou seja, o verbo To be localiza-se antes
+        <p class="paragraph-tex">Na forma interrogativa, ocorre uma inversão da ordem sujeito-verbo, ou seja, o verbo To
+            be localiza-se antes
             do sujeito. Acompanhe a tabela:</p>
         <div class="content-table">
             <h4>Quadro 10 - Interrogative</h4>
@@ -673,14 +696,15 @@
                 </tbody>
             </table>
         </div>
-        <p>Observe a inversão entre sujeito e verbo no exemplo a seguir:</p>
+        <p class="paragraph-tex">Observe a inversão entre sujeito e verbo no exemplo a seguir:</p>
         <img src="../../assets/images/foto009.png" alt="" class="responsive-image">
         <div class="highlights">
             <span>Are they at the college?</span>
             <span>Is Mr. Smith in the office?</span>
             <span>Is Dube in the pub today?</span>
         </div>
-        <p>As Yes/No Questions com o verbo To be exigem respostas do tipo Sim ou Não. Essas respostas são chamadas de
+        <p class="paragraph-tex">As Yes/No Questions com o verbo To be exigem respostas do tipo Sim ou Não. Essas
+            respostas são chamadas de
             short answers (respostas curtas). Veja como elas são estruturadas:</p>
         <div class="content-table">
             <h4>Quadro 11 - Questions</h4>
@@ -751,28 +775,33 @@
                 </tbody>
             </table>
         </div>
-        <p>Observe que nas short answers afirmativas não utilizamos contractions - o verbo To be aparece sempre separado
+        <p class="paragraph-tex">Observe que nas short answers afirmativas não utilizamos contractions - o verbo To be
+            aparece sempre separado
             do pronome. Já nas negativas, costuma-se utilizar uma das formas com contraction apresentadas na tabela.
             Quando uma pessoa responde a uma pergunta envolvendo o pronome we é importante lembrar que ela pode ou não
             estar incluída, o que influencia na escolha do pronome para a resposta. Ele pode então ser we (a pessoa que
             responde se inclui) ou you (os outros), ou seja, quem responde não se inclui. Observe no exemplo:</p>
-        <p><strong>Are we at home?</strong></p>
-        <p>Yes, we are.</p>
-        <p>Yes you are.</p>
-        <p>Por fim, sempre surge a dúvida: “Posso responder uma Yes/No Question dizendo simplesmente Yes ou No?” A
+        <p class="paragraph-tex"><strong>Are we at home?</strong></p>
+        <p class="paragraph-tex">Yes, we are.</p>
+        <p class="paragraph-tex">Yes you are.</p>
+        <p class="paragraph-tex">Por fim, sempre surge a dúvida: “Posso responder uma Yes/No Question dizendo
+            simplesmente Yes ou No?” A
             resposta é: sim, mas isso depende da situação. Quando se trata de uma situação informal, como em uma
             conversa entre amigos ou familiares, você pode responder com Yes ou No. Se a situação for formal, por
             exemplo, em uma conversa entre você e o seu advisor, é preferível utilizar as short answers.O verbo To be
             permite que você se comunique em distintas situações. A seguir você estudará os possessive adjectives que
             lhe auxiliarão a expressar posse.</p>
+
         <h3 class="sub-heading">1.8 Possessive adjectives</h3>
-        <p>Os possessive adjectives são os adjetivos possessivos em inglês, ou seja, palavras que designam que alguém
+        <p class="paragraph-tex">Os possessive adjectives são os adjetivos possessivos em inglês, ou seja, palavras que
+            designam que alguém
             possui alguma coisa.</p>
-        <p>O fato de serem <strong>adjetivos possessivos</strong> implica terem uma posição fixa - antes
+        <p class="paragraph-tex">O fato de serem <strong>adjetivos possessivos</strong> implica terem uma posição fixa -
+            antes
             daquilo que é possuído - e <strong>não variarem em número em função da posse</strong> - ou seja,
             não há diferença se a coisa possuída for singular ou plural. Já a <strong>pessoa que
                 possui</strong> pode variar em singular ou plural.</p>
-        <p>Por exemplo, ao ver Amanda pela primeira vez, no aeroporto, Rosa pensou:</p>
+        <p class="paragraph-tex">Por exemplo, ao ver Amanda pela primeira vez, no aeroporto, Rosa pensou:</p>
         <img src="../../assets/images/foto010.png" alt="" class="responsive-image">
         <div class="highlights">
             <span>Her shoes are stylish too.</span>
@@ -780,7 +809,7 @@
             <span>Her coat is gorgeous.</span>
             <span>= "O casaco dela é lindo."</span>
         </div>
-        <p>O adjetivo possessivo her refere-se à Amanda (pessoa do singular) que possui uma coisa também no singular
+        <p class="paragraph-tex">O adjetivo possessivo her refere-se à Amanda (pessoa do singular) que possui uma coisa também no singular
             (casaco). Rosa nota ainda os sapatos de Amanda, e na frase, Her continua referindo-se a Amanda (pessoa do
             singular), mas o que ela possui (os sapatos) é plural. Apesar disso, o possessive adjective (her) continua o
             mesmo. Observe outra situação. Enquanto Amanda dirige para casa, Rosa a indaga sobre como são Christine e
@@ -790,7 +819,7 @@
             <span>Their personalities are very different.</span>
             <span>= "A personalidade delas é bem diferente."</span>
         </div>
-        <p>O pronome possessivo their (delas) refere-se à Christine e Carly (pessoas do plural - they),
+        <p class="paragraph-tex">O pronome possessivo their (delas) refere-se à Christine e Carly (pessoas do plural - they),
             independentemente do que elas possuem. Ao chegar em frente à casa das meninas, Rosa igualmente utiliza their
             porque a casa é delas, ainda que o que elas possuem (a casa) seja singular. Veja:</p>
         <img src="../../assets/images/foto012.png" alt="" class="responsive-image">
@@ -798,7 +827,7 @@
             <span>Their house looks amazing!</span>
             <span>= "A casa delas parece incrível!"</span>
         </div>
-        <p>Relembrando então: o possessive adjective se refere a quem possui, sendo independente daquilo que é possuído.
+        <p class="paragraph-tex">Relembrando então: o possessive adjective se refere a quem possui, sendo independente daquilo que é possuído.
             Observe a lista dos adjetivos possessivos em relação às pessoas do singular e do plural:</p>
         <div class="content-table">
             <h4>Quadro 12 - Subject pronouns and Possessive adjectives</h4>
@@ -841,11 +870,11 @@
                 </tbody>
             </table>
         </div>
-        <p>Mais uma vez, é bom lembrar que os adjetivos possessivos sempre vêm seguidos daquilo que é possuído. Assim, a
+        <p class="paragraph-tex">Mais uma vez, é bom lembrar que os adjetivos possessivos sempre vêm seguidos daquilo que é possuído. Assim, a
             frase Her is beautiful (Dela é lindo) é tão incorreta em inglês quanto em português, pois falta a palavra
             possuída (dela o quê?).</p>
         <h3 class="sub-heading">Similar sounds in Possessive adjectives and to be contractions</h3>
-        <p>Você recentemente viu que o verb To be, quando contraído com o subject pronoun, adquire uma pronúncia
+        <p class="paragraph-tex">Você recentemente viu que o verb To be, quando contraído com o subject pronoun, adquire uma pronúncia
             diferente da que teria se estivesse por extenso. O som da contraction acaba por assemelhar-se à pronúncia do
             possessive pronoun correspondente. Percebendo isso você poderá identificar que, apesar de algumas soarem
             iguais e outras parecidas para aprendizes de língua inglesa, estas contractions e os possessives têm
@@ -879,11 +908,11 @@
                 </tbody>
             </table>
         </div>
-        <p>Outro uso muito importante para o Verb to be e os Possessive pronouns é a designação das nacionalidades. Para
+        <p class="paragraph-tex">Outro uso muito importante para o Verb to be e os Possessive pronouns é a designação das nacionalidades. Para
             isso, acompanhe a seguir o nome de alguns countries e nationalities.</p>
 
         <h3 class="sub-heading">1.9 Countries and nationalities</h3>
-        <p>Quando você está no exterior, é comum mencionar seu país e/ou cidade de origem ou sua nacionalidade. Da mesma
+        <p class="paragraph-tex">Quando você está no exterior, é comum mencionar seu país e/ou cidade de origem ou sua nacionalidade. Da mesma
             forma, pessoas estrangeiras vão lhe informar sua origem, portanto é importante conhecer os nomes dos países
             e as nacionalidades em inglês. Observe a continuação da conversa de Rosa com o funcionário na chegada ao
             aeroporto.</p>
@@ -903,14 +932,14 @@
             frameborder="0"
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
             referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-        <p>Observe no diálogo que o atendente pergunta à Rosa:</p>
+        <p class="paragraph-tex">Observe no diálogo que o atendente pergunta à Rosa:</p>
         <img src="../../assets/images/foto014.png" alt="" class="responsive-image">
-        <p>A palavra where acompanhada da preposição from (que nessa pergunta vem obrigatoriamente ao final da frase), é
+        <p class="paragraph-tex">A palavra where acompanhada da preposição from (que nessa pergunta vem obrigatoriamente ao final da frase), é
             utilizada para saber de onde uma pessoa vem, ou seja, sua origem - país ou cidade. Perceba a inversão que
             ocorre em are you, que é obrigatória por ser uma pergunta. Na resposta de Rosa, por ser uma afirmação, a
             inversão já não é mais necessária. Observe:</p>
-        <p><strong>I'm</strong> from Brazil.</p>
-        <p>Perceba que Rosa se refere a seu país como <strong>Brazil</strong> e o atendente à sua nacionalidade
+        <p class="paragraph-tex"><strong>I'm</strong> from Brazil.</p>
+        <p class="paragraph-tex">Perceba que Rosa se refere a seu país como <strong>Brazil</strong> e o atendente à sua nacionalidade
             como Brazilian. Veja como outros países e nacionalidades são designados em inglês:</p>
         <p>Flags, countries and nationalities:</p>
         <div class="content-img">
@@ -953,7 +982,7 @@
         </div>
         <h3 class="sub-heading">No hugging, please!</h3>
         <img src="../../assets/images/foto043.png" alt="" class="responsive-image">
-        <p>Brazil and the United States are different not only in terms of their languages, but also in their customs.
+        <p class="paragraph-tex">Brazil and the United States are different not only in terms of their languages, but also in their customs.
             One important area in which the two countries are different is physical contact. Brazilian people are often
             very affectionate: they touch, hug or kiss people when they meet. American people usually only hug or kiss
             family members and close friends. If you watched the episode, you probably noticed how uncomfortable Carly
@@ -962,7 +991,7 @@
             and USA deal with physical contact in a different way, so, just a wave or a handshake is OK.</p>
 
         <h3 class="sub-heading">1.10 Resumo e glossário</h3>
-        <p>Glossary</p>
+        <p class="paragraph-tex">Glossary</p>
         <div class="glossary">
             <span>Small:</span> pequeno
             <span>Town:</span> cidade
@@ -1053,9 +1082,8 @@
     margin-top: 2rem;
 }
 
-.intro-text,
-.importance-text,
-.next-topic-text {
+
+.paragraph-tex {
     font-size: 1.7rem;
     line-height: 1.6;
     color: #4b5563;
