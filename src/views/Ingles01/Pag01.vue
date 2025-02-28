@@ -990,12 +990,6 @@
             <span>To have you as our student:</span> tê-la como nossa aluna
             <span>Not only:</span> não só/não apenas
         </div>
-        <div class="next-page">
-            <a href="/ingles/01/pag/02" class="next-button">
-                <span>Avançar</span>
-                <i class="fas fa-arrow-right"></i>
-            </a>
-        </div>
     </main>
 </template>
 
@@ -1222,36 +1216,6 @@ td:hover {
     box-shadow: 0px 4px 15px rgba(255, 117, 140, 0.5);
 }
 
-.next-page {
-    display: flex;
-    justify-content: flex-end;
-    margin-top: 20px;
-}
-
-.next-button {
-    display: flex;
-    align-items: center;
-    gap: 10px;
-    background-color: #4CAF50;
-    color: white;
-    padding: 12px 20px;
-    border-radius: 8px;
-    text-decoration: none;
-    font-size: 18px;
-    font-weight: bold;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    transition: all 0.3s ease-in-out;
-}
-
-.next-button i {
-    font-size: 20px;
-}
-
-.next-button:hover {
-    background-color: #45a049;
-    transform: scale(1.05);
-}
-
 @media (max-width: 600px) {
     .video-frame {
         height: 200px;
@@ -1291,15 +1255,6 @@ td:hover {
     .glossary {
         flex-direction: column;
         align-items: center;
-    }
-
-    .next-button {
-        font-size: 16px;
-        padding: 10px 16px;
-    }
-
-    .next-button i {
-        font-size: 18px;
     }
 }
 </style>
