@@ -15,7 +15,9 @@
             </router-link>
 
             <!-- Botão de avançar -->
-            <router-link :to="`/ingles/${curso}/pag/${formatPageNumber(parseInt(pagina) + 1)}`" class="next-button">
+            <router-link
+                :to="pagina === '03' ? '/Parabens' : `/ingles/${curso}/pag/${formatPageNumber(parseInt(pagina) + 1)}`"
+                class="next-button">
                 <span>Avançar</span>
                 <i class="fas fa-arrow-right"></i>
             </router-link>
@@ -96,6 +98,7 @@ watch(() => route.params, (newParams) => {
 }
 
 @media (max-width: 600px) {
+
     .prev-button,
     .next-button {
         font-size: 16px;
