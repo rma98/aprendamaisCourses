@@ -26,8 +26,8 @@
 </template>
 
 <script setup lang="ts">
-import { defineAsyncComponent, watch, ref, shallowRef } from 'vue';
-import { useRoute } from 'vue-router';
+import { defineAsyncComponent, ref, shallowRef, watchEffect } from "vue";
+import { useRoute } from "vue-router";
 
 const route = useRoute();
 
@@ -36,24 +36,36 @@ const curso = ref(route.params.curso as string);
 const pagina = ref(route.params.pagina as string);
 
 // Função para formatar número da página (adiciona zero à esquerda se necessário)
-const formatPageNumber = (num: number) => num < 10 ? `0${num}` : `${num}`;
+const formatPageNumber = (num: number) => (num < 10 ? `0${num}` : `${num}`);
+
+// Mapeamento das páginas disponíveis
+const pageComponents: Record<string, Record<string, () => Promise<any>>> = {
+    "01": {
+        "01": () => import("../views/Ingles01/Pag01.vue"),
+        "02": () => import("../views/Ingles01/Pag02.vue"),
+        "03": () => import("../views/Ingles01/Pag03.vue"),
+    },
+    "02": {
+        "01": () => import("../views/Ingles02/Pag01.vue"),
+    },
+};
 
 // Definir a página específica dinamicamente
-const currentPageComponent = shallowRef(defineAsyncComponent(() =>
-    import(/* @vite-ignore */ `../views/Ingles${curso.value}/Pag${pagina.value}.vue`)
+const currentPageComponent = shallowRef(defineAsyncComponent(
+    pageComponents[curso.value]?.[pagina.value] || (() => import("../views/NotFound.vue"))
 ));
 
-// **Assistir mudanças na rota para recarregar o componente**
-watch(() => route.params, (newParams) => {
-    curso.value = newParams.curso as string;
-    pagina.value = newParams.pagina as string;
+// **Atualiza automaticamente quando a rota muda**
+watchEffect(() => {
+    curso.value = route.params.curso as string;
+    pagina.value = route.params.pagina as string;
 
-    // Atualizar o componente dinamicamente
-    currentPageComponent.value = defineAsyncComponent(() =>
-        import(/* @vite-ignore */ `../views/Ingles${curso.value}/Pag${pagina.value}.vue`)
+    currentPageComponent.value = defineAsyncComponent(
+        pageComponents[curso.value]?.[pagina.value] || (() => import("../views/NotFound.vue"))
     );
-}, { deep: true });
+});
 </script>
+
 
 <style scoped>
 .navigation-buttons {
