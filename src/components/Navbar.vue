@@ -35,7 +35,7 @@ export default {
             modalOpen: false,
             courses: [
                 { name: "Inglês 01", number: "01" },
-                { name: "Inglês 2", number: "2" },
+                { name: "Inglês 02", number: "02" },
                 { name: "Inglês 3", number: "3" },
                 { name: "Inglês 4", number: "4" },
                 { name: "Inglês 5", number: "5" },
