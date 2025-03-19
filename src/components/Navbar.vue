@@ -4,7 +4,7 @@
 
         <!-- Menu principal -->
         <ul class="nav-links">
-            <li><a href="/">Início</a></li>
+            <li><router-link to="/">Início</router-link></li>
 
             <!-- Dropdown de Cursos -->
             <li class="dropdown">
