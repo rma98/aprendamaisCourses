@@ -4,7 +4,7 @@
         <div class="celebration">
             <i class="fas fa-trophy"></i>
             <h1>Parabéns!</h1>
-            <p>Você concluiu o curso de Inglês 01. Continue praticando para aprimorar ainda mais seu aprendizado!</p>
+            <p>Você concluiu o curso de Inglês. Continue praticando para aprimorar ainda mais seu aprendizado!</p>
             <router-link to="/" class="home-button">Ir para a Página Inicial</router-link>
         </div>
     </div>
