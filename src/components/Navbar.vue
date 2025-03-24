@@ -36,7 +36,7 @@ export default {
             courses: [
                 { name: "Inglês 01", number: "01" },
                 { name: "Inglês 02", number: "02" },
-                { name: "Inglês 3", number: "3" },
+                { name: "Inglês 03", number: "03" },
                 { name: "Inglês 4", number: "4" },
                 { name: "Inglês 5", number: "5" },
                 { name: "Inglês 6", number: "6" },
