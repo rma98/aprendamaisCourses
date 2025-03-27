@@ -57,6 +57,7 @@ const pageComponents: Record<string, Record<string, () => Promise<any>>> = {
     },
     "04": {
         "01": () => import("../views/Ingles04/Pag01.vue"),
+        "02": () => import("../views/Ingles04/Pag02.vue"),
     },
 };
 
