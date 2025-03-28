@@ -60,6 +60,9 @@ const pageComponents: Record<string, Record<string, () => Promise<any>>> = {
         "02": () => import("../views/Ingles04/Pag02.vue"),
         "03": () => import("../views/Ingles04/Pag03.vue"),
     },
+    "05": {
+        "01": () => import("../views/Ingles05/Pag01.vue"),
+    },
 };
 
 // Definir a página específica dinamicamente
