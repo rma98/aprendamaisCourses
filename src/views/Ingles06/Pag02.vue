@@ -176,7 +176,11 @@
         <h3 class="sub-heading">2.5 Future - Going to</h3>
         <p class="paragraph-tex">Planejar uma viajem pode ser muito divertido, mas envolve organização e atenção para que coisas importantes não sejam esquecidas. Acompanhe Rosa dividindo com Carly seus planos.</p>
         <div class="dialogue-box">
+<<<<<<< HEAD
             <img src="../../assets/images/foto563.png" alt="" class="responsive-image">
+=======
+            <img src="../../assets/images/foto563.png" alt="" class="responsive-image">
+>>>>>>> e5d13a38148fd8c99115af0f1350a63c7d147a80
             <p class="dialogue">
                 <strong>Carly:</strong> Hey, Rosa, what’s on your mind? You seem to be day dreaming.<br>
                 <strong>Rosa:</strong> I was talking to Dube, and I told him to go to New York to meet Christine.<br>
