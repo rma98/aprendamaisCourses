@@ -17,7 +17,7 @@
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                 referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
         </div>
-        <h2>Tópico 6: Adjectives, Travel, courses' review from 1 to 6</h2>
+        <h2 class="main-heading">Tópico 6: Adjectives, Travel, courses' review from 1 to 6</h2>
 
         <h3 class="sub-heading">1.1 Talking about cities!</h3>
         <p class="paragraph-tex">Dube está inconsolável pelo rompimento com Christine e por ela estar indo embora para
