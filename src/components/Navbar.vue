@@ -39,7 +39,7 @@ export default {
                 { name: "Inglês 03", number: "03" },
                 { name: "Inglês 04", number: "04" },
                 { name: "Inglês 05", number: "05" },
-                { name: "Inglês 6", number: "6" },
+                { name: "Inglês 06", number: "06" },
                 { name: "Inglês 7", number: "7" },
                 { name: "Inglês 8", number: "8" },
                 { name: "Inglês 9", number: "9" },
